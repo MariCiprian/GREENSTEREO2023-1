@@ -1,3 +1,4 @@
+![APPGREENSTEREO](https://github.com/MariCiprian/GREENSTEREO2023-1/assets/111545543/1e1e84d1-25f8-4477-937b-6d56f611e7f1)
 # GREENSTEREO2023-1
 Desarrollo de APP Green Stereo
 JUSTIFICACÓN 
