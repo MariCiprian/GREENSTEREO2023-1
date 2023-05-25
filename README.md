@@ -1,3 +1,6 @@
+![Diagrama de causa y efecto](https://github.com/MariCiprian/GREENSTEREO2023-1/assets/111545543/e5b0b207-5641-4141-8537-e9090c782bfa)
+![Diagrama ER de base de datos (pata de gallo)](https://github.com/MariCiprian/GREENSTEREO2023-1/assets/111545543/6a862401-a916-41a8-9567-5bc3d0cdea3d)
+![webCaptura](https://github.com/MariCiprian/GREENSTEREO2023-1/assets/111545543/9b9e0322-3f69-4124-a8bc-da748081b540)
 ![APPGREENSTEREO](https://github.com/MariCiprian/GREENSTEREO2023-1/assets/111545543/1e1e84d1-25f8-4477-937b-6d56f611e7f1)
 # GREENSTEREO2023-1
 Desarrollo de APP Green Stereo
